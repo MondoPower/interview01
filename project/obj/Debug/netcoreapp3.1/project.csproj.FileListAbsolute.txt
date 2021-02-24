@@ -1,0 +1,17 @@
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.csprojAssemblyReference.cache
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.AssemblyInfoInputs.cache
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.AssemblyInfo.cs
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.csproj.CoreCompileInputs.cache
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.MvcApplicationPartsAssemblyInfo.cache
+/home/yaohancz/Repo/interview01/project/bin/Debug/netcoreapp3.1/project
+/home/yaohancz/Repo/interview01/project/bin/Debug/netcoreapp3.1/project.deps.json
+/home/yaohancz/Repo/interview01/project/bin/Debug/netcoreapp3.1/project.runtimeconfig.json
+/home/yaohancz/Repo/interview01/project/bin/Debug/netcoreapp3.1/project.runtimeconfig.dev.json
+/home/yaohancz/Repo/interview01/project/bin/Debug/netcoreapp3.1/project.dll
+/home/yaohancz/Repo/interview01/project/bin/Debug/netcoreapp3.1/project.pdb
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.RazorTargetAssemblyInfo.cache
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/staticwebassets/project.StaticWebAssets.Manifest.cache
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/staticwebassets/project.StaticWebAssets.xml
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.dll
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.pdb
+/home/yaohancz/Repo/interview01/project/obj/Debug/netcoreapp3.1/project.genruntimeconfig.cache
